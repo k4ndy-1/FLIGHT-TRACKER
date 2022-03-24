@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkFLIGHT_TRACKER=self.webpackChunkFLIGHT_TRACKER||[]).push([[269],{64269:function(e,c,n){n.r(c);n(72791);var o=n(87238),r=n(85737),i=n(6055),l=n(80184);c.default=function(e){i.ViewKeys.LogView;return(0,l.jsx)(r.$G,{isScrollLocked:!1,children:(0,l.jsx)(r.pc,{logs:o.LogProvider.archive,locale:"de-CH",onLocalize:function(e){return e.value}})})}}}]);
+//# sourceMappingURL=269.2db81a02.chunk.js.map

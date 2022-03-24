@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFLIGHT_TRACKER=self.webpackChunkFLIGHT_TRACKER||[]).push([[61],{48061:function(e,s,t){e.exports=t.p+"static/media/flight_takeoff-24px.44ad69ebd91263794b47.svg"}}]);

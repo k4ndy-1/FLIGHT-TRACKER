@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFLIGHT_TRACKER=self.webpackChunkFLIGHT_TRACKER||[]).push([[961],{65961:function(c,e,s){c.exports=s.p+"static/media/flight-24px.c4c3dc8440f2c64eb4e9.svg"}}]);

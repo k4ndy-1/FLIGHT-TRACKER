@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkFLIGHT_TRACKER=self.webpackChunkFLIGHT_TRACKER||[]).push([[491],{1491:function(e,t,n){n.r(t);n(72791);var r=n(99607),a=n(67762),c=n(80184);test("renders learn react link",(function(){var e=(0,(0,r.sY)((0,c.jsx)(a.default,{})).getByText)(/learn react/i);expect(e).toBeInTheDocument()}))}}]);
+//# sourceMappingURL=491.8f343f21.chunk.js.map
